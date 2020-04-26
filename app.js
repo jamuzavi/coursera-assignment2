@@ -38,16 +38,32 @@ function ShoppingListCheckOffService() {
   },
   {
     name: "Donuts",
-    quantity: "200"
+    quantity: "8"
   },
   {
     name: "Cookies",
-    quantity: "300"
+    quantity: "20"
   },
   {
     name: "Chocolate",
-    quantity: "5"
-  }
+    quantity: "3"
+  },
+  {
+    name: "Potatoes",
+    quantity: "4"
+  },
+  {
+    name: "Bread",
+    quantity: "2"
+  },
+  {
+    name: "Apples",
+    quantity: "6"
+  },
+  {
+    name: "Oranges",
+    quantity: "9"
+  },
   ];
   // List of items already bought
   var boughtItems = [];
